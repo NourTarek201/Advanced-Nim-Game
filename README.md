@@ -1,4 +1,4 @@
-# Nim-Game
+# Advanced Nim-Game
 
 ## What does the program do
 The program is representing Nim game with a different style, you can play simple Nim game or choose from its variants
